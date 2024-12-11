@@ -26,7 +26,7 @@ h1 {
 ```
 
 
-5. Preview your `index.html` to make sure it works!
+5. Use `http-server` to preview your `index.html` to make sure it works!
 
 6. In order to push your code to Github, copy/paste the following code into your terminal. Make sure you press enter after the last command.
 
